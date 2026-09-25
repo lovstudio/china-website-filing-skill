@@ -5,7 +5,7 @@ description: >
 license: MIT
 metadata:
   author: LovStudio
-  version: "0.1.0"
+  version: "0.1.1"
   card_standard: lovstudio/skill-card/v1
   tags:
     - domain-cutover
@@ -16,7 +16,7 @@ metadata:
   dependencies: []
 ---
 
-# lov-domain-cutover — 备案后域名上线
+# 备案域名上线 · Domain Launch
 
 ## Input and output
 

@@ -5,7 +5,7 @@ description: >
 license: MIT
 metadata:
   author: LovStudio
-  version: "0.1.0"
+  version: "0.1.1"
   card_standard: lovstudio/skill-card/v1
   tags:
     - icp-readiness
@@ -15,7 +15,7 @@ metadata:
   dependencies: []
 ---
 
-# lov-filing-readiness — 备案准备核验
+# 备案预检 · Filing Readiness
 
 ## Input and output
 

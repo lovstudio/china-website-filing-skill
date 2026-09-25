@@ -5,7 +5,7 @@ description: >
 license: MIT
 metadata:
   author: LovStudio
-  version: "0.1.0"
+  version: "0.1.1"
   card_standard: lovstudio/skill-card/v1
   tags:
     - icp-filing
@@ -16,7 +16,7 @@ metadata:
   dependencies: []
 ---
 
-# lov-icp-filing — ICP 申请与审核
+# ICP 备案助手 · ICP Filing Assistant
 
 ## Input and output
 

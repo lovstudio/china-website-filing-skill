@@ -5,7 +5,7 @@ description: >
 license: MIT
 metadata:
   author: LovStudio
-  version: "0.1.0"
+  version: "0.1.1"
   card_standard: lovstudio/skill-card/v1
   tags:
     - public-security-filing
@@ -16,7 +16,7 @@ metadata:
   dependencies: []
 ---
 
-# lov-public-security-filing — 公安联网备案
+# 公安备案助手 · Public Security Filing
 
 ## Input and output
 

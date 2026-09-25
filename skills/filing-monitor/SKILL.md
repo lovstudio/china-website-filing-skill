@@ -5,7 +5,7 @@ description: >
 license: MIT
 metadata:
   author: LovStudio
-  version: "0.1.0"
+  version: "0.1.1"
   card_standard: lovstudio/skill-card/v1
   tags:
     - filing-monitor
@@ -16,7 +16,7 @@ metadata:
   dependencies: []
 ---
 
-# lov-filing-monitor — 备案状态巡检
+# 备案哨兵 · Filing Monitor
 
 ## Input and output
 
